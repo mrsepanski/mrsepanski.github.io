@@ -11,7 +11,7 @@ Hello! I am a Full Research Professor of Mathematics at Baylor University and cu
 
 On the research front, I have published two books and over 40 research articles, with half a dozen additional articles currently under review.
 
-On the program development and management side, I have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget.
+On the program development and management side, I have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget per student.
 
 
 A data-driven personal website
