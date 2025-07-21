@@ -14,8 +14,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching TBD"
-    url: /teaching/    
+  # - title: "Teaching TBD"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -23,11 +23,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Resume and CV TBD"
-    url: /cv/
+  # - title: "Resume and CV TBD"
+  #   url: /cv/
     
-  - title: "Publications TBD"
-    url: /publications/
+  # - title: "Publications TBD"
+  #   url: /publications/
     
   # - title: "CV"
   #   url: /cv-json/
