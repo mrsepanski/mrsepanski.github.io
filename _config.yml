@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Mark R. Sepanski"
 title_separator          : "-"
 name                     : &name "Mark R. Sepanski"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Mark R. Sepanski Professional Information"
+url                      : https://mrsepanski.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/MS-profile.png"
+  avatar           : "MS-profile.png"
   name             : "Mark R. Sepanski"
   pronouns         : # example: "she/her"  
   bio              : "I am a research full professor of Mathematics at Baylor University and the Graduate Program Director"
