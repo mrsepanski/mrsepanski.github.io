@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/MS-profile.png"
-  name             : "I am a professor of Mathematics at Baylor University and the Graduate Program Directo"
+  name             : "Mark R. Sepanski"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a research full professor of Mathematics at Baylor University and the Graduate Program Director"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
