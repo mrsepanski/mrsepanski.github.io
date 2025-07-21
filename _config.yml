@@ -25,7 +25,7 @@ author:
   avatar           : "MS-profile.png"
   name             : "Mark R. Sepanski"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Full Research Professor of Mathematics at [Baylor University](https://www.baylor.edu/) and the Graduate Program Director"
+  bio              : "I am a Full Research Professor of Mathematics at <a href=\"https://www.baylor.edu/">Baylor University</a> and the Graduate Program Director"
   location         : "Waco, Texas, USA"
   employer         : "Baylor University"
   uri              : "https://math.artsandsciences.baylor.edu/person/mark-sepanski-phd"
