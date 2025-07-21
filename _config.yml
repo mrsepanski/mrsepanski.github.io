@@ -26,7 +26,7 @@ author:
   name             : "Mark R. Sepanski"
   pronouns         : # example: "she/her"  
   bio              : "I am a Full Research Professor of Mathematics at <a href=\"https://www.baylor.edu\">Baylor University</a> and the Graduate Program Director" 
-  location         : "Waco, Texas, USA"
+  
   employer         : "Baylor University"
   uri              : "https://math.artsandsciences.baylor.edu/person/mark-sepanski-phd"
   email            : "mrsepanski@baylor.edu" 
@@ -76,6 +76,10 @@ author:
   # xing             : # Username
   # youtube          : # Username
   # zhihu            : # Username
+
+location         : "Waco, Texas, USA"
+
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
