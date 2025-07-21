@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a Full Research Professor of Mathematics at [Baylor University](https://www.baylor.edu/) and serve as the Graduate Program Director.
 
-On the research front, I have published two books and over 40 research articles, with half a dozen additional articles currently under review. 
+On the **Research Front**, I have published two books and over 40 research articles, with half a dozen additional articles currently under review. 
 I work in many areas of mathematics, including Lie Theory, Representation Theory, Combinatorics, and Graph Theory.
 
 On the Program Development and Management side, I have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget per student.
