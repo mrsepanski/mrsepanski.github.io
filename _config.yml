@@ -29,12 +29,13 @@ author:
   location         : "Waco, Texas, USA"
   employer         : "Baylor University"
   uri              : "https://math.artsandsciences.baylor.edu/person/mark-sepanski-phd"
-  email            : "mrsepanski@baylor.edu" 
+  email            : "mrsepanski@baylor.edu"   
+  googlescholar    : "https://scholar.google.com/citations?user=54xTAD8AAAAJ&hl"
 
   # Academic websites
   # academia         : # URL
-  # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=54xTAD8AAAAJ&hl"
+  # # arxiv            : # URL - Update with the correct link to your profile
+  # googlescholar    : "https://scholar.google.com/citations?user=54xTAD8AAAAJ&hl"
   # impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-9738-954X"
   # semantic         : # URL
