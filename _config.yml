@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MS-profile.png"
+  avatar           : "images/MS-profile.png"
   name             : "I am a professor of Mathematics at Baylor University and the Graduate Program Directo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
