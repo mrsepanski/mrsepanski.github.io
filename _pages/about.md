@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Full Research Professor of Mathematics at [Baylor University](https://www.baylor.edu/) and currently serve as the Graduate Program Director.
+Hello! I am a Full Research Professor of Mathematics at [Baylor University](https://www.baylor.edu/) and serve as the Graduate Program Director.
 
 On the research front, I have published two books and over 40 research articles, with half a dozen additional articles currently under review. 
 I work in many areas of mathematics, including Lie Theory, Representation Theory, Combinatorics, and Graph Theory.
 
-On the program development and management side, I have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget per student.
+On the Program Development and Management Side, I have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget per student.
+
+On the educational leadership side, I serve on the Mathematics Advisory Group for the Leaders Network and previously served on the Graduate Education Group for Transforming Post-Secondary Education in Mathematics, [TPSE Math](https://www.tpsemath.org/). TPSE Math is a national organization dedicated to strengthening all aspects of post-secondary mathematics education across all student levels.
 
 
 A data-driven personal website
