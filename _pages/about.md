@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Full Research Professor of Mathematics at Baylor University and currently serve as the Graduate Program Director.
+Hello! I am a Full Research Professor of Mathematics at [Baylor University](https://www.baylor.edu/) and currently serve as the Graduate Program Director.
 
 On the research front, I have published two books and over 40 research articles, with half a dozen additional articles currently under review.
 
