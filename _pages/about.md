@@ -19,7 +19,7 @@ On the Educational Leadership side, I serve on the Mathematics Advisory Group fo
 
 Other Things About Me
 ======
-Though self-driven and able to work by myself, I also thrive in collaborative environments and enjoy working hard in a positive, team-oriented setting. I love solving problems and take pride in finding creative solutions.
+Though self-driven and able to work by myself, I thrive in collaborative environments and enjoy working hard in a positive, team-oriented setting. I love solving problems and take pride in finding creative solutions.
 
 Outside of work, I’m passionate about a wide range of interests. I love to read and have spent many years gardening with native Texas plants, earning a black belt in Tae Kwon Do, rock climbing, and running. These days, I focus more on biking, board games, fine cooking, crafting fabulous cocktails, traveling, and spending time with interesting people.
 
