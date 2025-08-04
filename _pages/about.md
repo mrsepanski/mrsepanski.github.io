@@ -15,7 +15,7 @@ On the **Research** front, I have published two books and 40+ research articles,
 I an an expert in Lie Theory, Representation Theory, Combinatorics, and Graph Theory and 
 have a strong command of mathematical theory and problem-solving across diverse domains.
 
-On the **Program Development and Management** side, I was the primary architects of Baylor's Ph.D. program in mathematics and have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget per student.
+On the **Program Development and Management** side, I was the primary architect of Baylor's Ph.D. program in mathematics and have served as Graduate Program Director for over 15 years. During this time, I have overseen a 320% increase in student enrollment and a 230% growth in program budget per student.
 
 On the **Educational Leadership** side, I serve on the Mathematics Advisory Group for the Leaders Network and previously worked with the Graduate Education Group for Transforming Post-Secondary Education in Mathematics, [TPSE Math](https://www.tpsemath.org/). TPSE Math is a national organization dedicated to strengthening all aspects of post-secondary mathematics education across all student levels.
 
