@@ -11,7 +11,7 @@ Hello! I am a **Full Research Professor of Mathematics** at [Baylor University](
 
 I earned my **Ph.D. in Mathematics from MIT**, followed by postdoctoral appointments at Cornell University and Oklahoma State University, as well as time at the Mathematical Sciences Research Institute, now the Simons Laufer Mathematical Sciences Institute.
 
-On the **Research** front, I have published two books and over 40 research articles, with half a dozen additional articles currently under review. I have given 50+ talks and invited lectures all over the world. 
+On the **Research** front, I have published two books and 40+ research articles, with half a dozen additional articles currently under review. I have given 50+ talks and invited lectures all over the world. 
 I an an expert in Lie Theory, Representation Theory, Combinatorics, and Graph Theory and 
 have a strong command of mathematical theory and problem-solving across diverse domains.
 
