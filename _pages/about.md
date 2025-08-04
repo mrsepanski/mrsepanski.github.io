@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am a **Full Research Professor of Mathematics** at [Baylor University](https://www.baylor.edu/) and serve as the **Graduate Program Director**. 
 
-I earned my **Ph.D. in Mathematics from MIT**, followed by postdoctoral appointments at **Cornell University** and **Oklahoma State University**, as well as time at the **Mathematical Sciences Research Institute**, now the **Simons Laufer Mathematical Sciences Institute**.
+I earned my **Ph.D. in Mathematics from MIT**, followed by postdoctoral appointments at Cornell University and Oklahoma State University, as well as time at the Mathematical Sciences Research Institute, now the Simons Laufer Mathematical Sciences Institute.
 
 On the **Research** front, I have published two books and over 40 research articles, with half a dozen additional articles currently under review. 
 I work in many areas of mathematics, including Lie Theory, Representation Theory, Combinatorics, and Graph Theory.
