@@ -24,6 +24,6 @@ Other Things About Me
 ======
 Though self-driven and comfortable working independently, I thrive in collaborative environments where I can contribute to a positive, team-oriented culture. I enjoy tackling complex problems and take pride in finding creative, effective solutions.
 
-Outside of work, I’m passionate about a wide range of interests. Over the years, I’ve enjoyed reading, gardening with native Texas plants, earning a black belt in Tae Kwon Do, rock climbing, and running. These days, I focus more on biking, board games, fine cooking, crafting cocktails, traveling, and spending time with interesting people.
+Outside of work, I’m passionate about a wide range of interests. Over the years, I’ve enjoyed reading, gardening with native Texas plants, earning a black belt in Tae Kwon Do, rock climbing, and running. These days, I focus more on biking, board games, playing the guitar, fine cooking, crafting cocktails, traveling, and spending time with interesting people.
 
 Above all, I’m deeply grateful for my wonderful wife and our three amazing children—they are the heart of everything I do.
